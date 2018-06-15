@@ -14,10 +14,10 @@ To run:
 python3 main.py
 ```
 
-**Show's blocks with trasaction data inside**
+**Shows blocks with trasaction data inside**
 
 ![image](https://user-images.githubusercontent.com/25104394/39401802-c92db908-4b1c-11e8-900e-4a28830c716e.png)
 
-**Show's Hashes of each block**
+**Shows Hashes of each block**
 
 ![image](https://user-images.githubusercontent.com/25104394/39401822-1b1d14fc-4b1d-11e8-98cf-2da3290600e8.png)
